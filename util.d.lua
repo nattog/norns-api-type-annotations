@@ -1,4 +1,4 @@
--- util_types.d.lua
+---@meta
 
 ---@class Util
 util = {}

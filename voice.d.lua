@@ -1,4 +1,4 @@
--- util_types.d.lua
+---@meta
 
 --- Slot class
 --- @class Slot

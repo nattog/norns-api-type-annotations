@@ -1,4 +1,4 @@
--- ui_types.d.lua
+---@meta
 
 --- UI class
 --- @class UI

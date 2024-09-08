@@ -1,8 +1,9 @@
+---@meta
+
 --- @class Screen
 --- @field font_face_count number
 --- @field font_face_names string[]
 --- @field BLEND_MODES { [string | number]: number }
-
 Screen = {}
 
 Screen.update_default = function() end
